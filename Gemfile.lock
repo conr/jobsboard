@@ -207,7 +207,7 @@ GEM
       rails (>= 6.0.0)
       stimulus-rails
       turbo-rails
-    html_tokenizer (0.0.7)
+    html_tokenizer (0.0.8)
     http-2 (0.11.0)
     http (4.4.1)
       addressable (~> 2.3)
@@ -494,6 +494,7 @@ DEPENDENCIES
   honeybadger
   hotwire-livereload
   hotwire-rails
+  html_tokenizer (~> 0.0.8)
   i18n-tasks
   image_processing
   inline_svg

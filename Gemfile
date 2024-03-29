@@ -49,6 +49,7 @@ gem "fathom_api", require: false
 gem "geocoder"
 gem "groupdate"
 gem "hashid-rails"
+gem "html_tokenizer", "~> 0.0.8"
 gem "honeybadger"
 gem "image_processing"
 gem "inline_svg"
